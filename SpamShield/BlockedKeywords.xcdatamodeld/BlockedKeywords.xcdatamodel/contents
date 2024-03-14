@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22D68" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AllowKeywords" representedClassName="AllowKeywords" syncable="YES">
+        <attribute name="keyword" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="AllowNums" representedClassName="AllowNums" syncable="YES">
+        <attribute name="number" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="BlockKeywords" representedClassName="BlockKeywords" syncable="YES">
+        <attribute name="keyword" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="BlockNums" representedClassName="BlockNums" syncable="YES">
+        <attribute name="number" optional="YES" attributeType="String"/>
+    </entity>
+</model>
